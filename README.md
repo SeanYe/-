@@ -1,0 +1,28 @@
+# 1.3rd书签
+- [程序员应该访问的最佳网站中文版原版](https://www.cnblogs.com/loveincode/p/7356803.html)
+
+
+# 2.Java
+
+## 2.1.开源方案
+* [Disruptor：无锁的并发实现框架](https://github.com/LMAX-Exchange/disruptor/wiki/Introduction)      
+  - [并发编程网相关译文](http://ifeve.com/disruptor/)     
+* [parallec: 支持异步并行HTTP(S)/SSH/TCP/UDP/Ping请求](https://github.com/eBay/parallec)  
+
+## 2.2.面试
+-  [Java Hook](http://javahonk.com/category/interview/)
+
+
+
+# 3.前端  
+* electron
+* ice(飞冰)
+* ant-design
+
+
+# 4.软件使用 
+* [github markdown语法](https://www.cnblogs.com/yabin/p/6366151.html)
+* intellij IDEA
+* xShell
+* 思维导图工具：XMind
+*
