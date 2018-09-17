@@ -10,6 +10,7 @@
 * [parallec: 支持异步并行HTTP(S)/SSH/TCP/UDP/Ping请求](https://github.com/eBay/parallec)  
 * [sofa-rpc: 蚂蚁金服rpc框架](https://github.com/alipay/sofa-rpc)
 * [sofa-boot:基于spring-boot的框架](https://github.com/alipay/sofa-boot)
+* [RocketMQ:消息队列中间件](http://rocketmq.apache.org/docs/quick-start/)
 
 ### 2.2.1.技术网站
 - [面试-Java Hook](http://javahonk.com/category/interview/)
