@@ -11,7 +11,7 @@
 * [sofa-rpc: 蚂蚁金服rpc框架](https://github.com/alipay/sofa-rpc)
 * [sofa-boot:基于spring-boot的框架](https://github.com/alipay/sofa-boot)
 * [RocketMQ:消息队列中间件](http://rocketmq.apache.org/docs/quick-start/)
-
+* [SBE:号称比Google的Protocol buffer还快的编解码库](https://github.com/real-logic/simple-binary-encoding/wiki)
 ### 2.2.1.技术网站
 - [面试-Java Hook](http://javahonk.com/category/interview/)
 - [面试、并发、最佳实践等-HowToDoInJava](https://howtodoinjava.com/java-8-tutorial/)
